@@ -1,0 +1,74 @@
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\Restaurant Finder.dll.config
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\Restaurant Finder.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\Restaurant Finder.pdb
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\csc.exe
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\csc.exe.config
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\csc.rsp
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\csi.exe
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\csi.exe.config
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\csi.rsp
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.AppContext.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Console.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.IO.Compression.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Net.Http.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.ValueTuple.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\vbc.exe
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\vbc.exe.config
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\vbc.rsp
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\VBCSCompiler.exe
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\Antlr3.Runtime.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\Newtonsoft.Json.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\System.Web.Optimization.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\WebGrease.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\System.Web.Optimization.xml
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\Newtonsoft.Json.xml
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\Antlr3.Runtime.pdb
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\obj\Debug\Restaurant Finder.csproj.AssemblyReference.cache
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\obj\Debug\Restaurant Finder.csproj.CoreCompileInputs.cache
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\obj\Debug\Restaurant Finder.dll
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\obj\Debug\Restaurant Finder.pdb
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\obj\Debug\Restaurant Finder.csproj.CopyComplete

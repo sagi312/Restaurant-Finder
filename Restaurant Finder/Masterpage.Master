@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Masterpage.Master.cs" Inherits="Restaurant_Finder.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik&family=Varela+Round&display=swap" rel="stylesheet">
+
+
+    <title></title>
+    <link href="Masterstyle.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <table class="mpTable"> 
+        <tr class="mpHeader">
+            <td class="mpTD">
+                <a href="Registration.aspx">הרשמה</a><br />
+                <a href="Profile.aspx">פרופיל</a>
+            </td>
+            <td class="mpTD">Logo</td>
+            <td class="mpTD">Clock</td>
+        </tr>
+
+        <tr class="mpMenu"><td colspan="3" class="mpTD">
+            <a href="Home.aspx">דף בית</a>
+        </td></tr>
+
+        <tr class="mpMain"><td colspan="3" class="mpTD">
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+        </td></tr>
+
+        <tr class="mpFooter"><td colspan="3" class="mpTD">Sagi Kushner 2021©</td></tr>
+    </table>
+</body>
+</html>
