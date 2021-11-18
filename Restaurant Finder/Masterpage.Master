@@ -17,14 +17,16 @@
 <body>
     <table class="mpTable"> 
         <tr class="mpHeader">
-            <td class="mpTD">&nbsp</td>
+            <td class="mpTD">
+                <a href="Registration.aspx">הרשמה</a><br />
+                <a href="Profile.aspx">פרופיל</a>
+            </td>
             <td class="mpTD">Logo</td>
-            <td class="mpTD">&nbsp</td>
+            <td class="mpTD">Clock</td>
         </tr>
 
         <tr class="mpMenu"><td colspan="3" class="mpTD">
             <a href="Home.aspx">דף בית</a>
-            <a href="Registration.aspx">הרשמה</a>
         </td></tr>
 
         <tr class="mpMain"><td colspan="3" class="mpTD">
