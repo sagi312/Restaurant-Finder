@@ -1,15 +1,30 @@
 ﻿body {
     direction: rtl;
     background-color: #f7b825;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 20px;
 }
 .mpTable {
     width: 100%;
 }
 
 .mpHeader td, .mpMenu td, .mpFooter td {
-    border-bottom: 1px solid black;
     text-align: center;
-    font-family: 'Rubik', sans-serif;
+}
+
+.mpFooter td, .mpMenu td{
+    border-top: 1px solid black
+}
+
+.mpMenu td a{
+    margin-left: 10px;
+}
+
+.mpFooter td{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 
 .center{
@@ -18,8 +33,9 @@
 
 h1 {
     font-family: 'Rubik', sans-serif;
+    font-size: 50px;
 }
 
 p {
-    font-family: 'Varela Round', sans-serif;
+    
 }
