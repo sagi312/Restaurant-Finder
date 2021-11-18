@@ -1,0 +1,25 @@
+﻿body {
+    direction: rtl;
+    background-color: #f7b825;
+}
+.mpTable {
+    width: 100%;
+}
+
+.mpHeader td, .mpMenu td, .mpFooter td {
+    border-bottom: 1px solid black;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+
+.center{
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Rubik', sans-serif;
+}
+
+p {
+    font-family: 'Varela Round', sans-serif;
+}
