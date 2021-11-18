@@ -71,3 +71,4 @@ C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\obj\Debug\Restaur
 C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\obj\Debug\Restaurant Finder.csproj.CoreCompileInputs.cache
 C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\obj\Debug\Restaurant Finder.dll
 C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\obj\Debug\Restaurant Finder.pdb
+C:\Users\sagi\source\repos\Restaurant Finder\Restaurant Finder\obj\Debug\Restaurant Finder.csproj.CopyComplete
