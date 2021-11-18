@@ -12,7 +12,7 @@
             <tr><td><label for="tel" class="inLabel">טלפון:</label><input type="tel" id="tel" /></td></tr>
             <tr><td><label for="pass" class="inLabel">סיסמא:</label><input type="password" id="pass" /></td></tr>
             <tr><td><label for="confirm" class="inLabel">אישור סיסמא:</label><input type="password" id="confirm" /></td></tr>
-            <tr><td><button type="submit">שלח</button></td></tr>
+            <tr><td><input type="submit" value="שלח" /></td></tr>
         </table>
     </form>
 </asp:Content>
