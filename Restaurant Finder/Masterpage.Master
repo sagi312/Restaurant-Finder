@@ -22,7 +22,10 @@
             <td class="mpTD">&nbsp</td>
         </tr>
 
-        <tr class="mpMenu"><td colspan="3" class="mpTD">[דף 1]  [דף 2]  [דף 3]</td></tr>
+        <tr class="mpMenu"><td colspan="3" class="mpTD">
+            <a href="Home.aspx">דף בית</a>
+            <a href="Registration.aspx">הרשמה</a>
+        </td></tr>
 
         <tr class="mpMain"><td colspan="3" class="mpTD">
 
