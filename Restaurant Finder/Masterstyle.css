@@ -7,11 +7,20 @@
 }
 
 .mpHeader td, .mpMenu td, .mpFooter td {
-    border-bottom: 1px solid black;
     text-align: center;
     font-family: 'Rubik', sans-serif;
 }
 
+.mpFooter td, .mpMenu td{
+    border-top: 1px solid black
+}
+
+.mpFooter td{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
 .center{
     text-align: center;
 }
