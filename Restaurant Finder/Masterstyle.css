@@ -20,11 +20,12 @@
     margin-left: 10px;
 }
 
-.mpFooter td{
+.mpFooter td {
     position: fixed;
     bottom: 0;
     left: 0;
     right: 0;
+    background-color: #f7b825;
 }
 
 .center{
